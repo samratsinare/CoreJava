@@ -1,2 +1,3 @@
 # CoreJava
-samrat pradnya.
+core java assignmnets for practice 
+ 
